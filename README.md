@@ -1,0 +1,2 @@
+# knn
+El conjunto de datos se encuentra aquí. Tienes dos tareas principales. La primera tarea es utilizar el conjunto de datos del abulón para predecir la edad del abulón a partir de mediciones físicas utilizando KNN. Este es un problema de regresión. Es posible que desees buscar en Google "KNN regression scikit-learn". La segunda tarea es utilizar el conjunto de datos de abulón para predecir el sexo a partir de sus características. Esta debería ser una tarea más fácil, ya que ya hemos repasado la clasificación KNN usando Python.
